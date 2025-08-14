@@ -40,7 +40,6 @@ With the increasing proliferation of misinformation across digital platforms, pa
 ## 📊 Business Relevance
 This model can be used by social media platforms and news aggregators to flag misleading content, contributing to the ethical use of AI in media and helping users make more informed decisions.
 
----
 
-**🔗 [View the notebook on GitHub](https://github.com/Parita2442/Fake-News-Detection)**
+
 
